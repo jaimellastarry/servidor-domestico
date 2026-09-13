@@ -28,7 +28,6 @@ Portafolio del servidor doméstico basado en **Ubuntu Server**, con servicios pr
 ## 📄 Documentación
 
 - 📘 [Portafolio completo (PDF)](./PORTAFOLIO%20SERVIDOR.pdf)
-- 📝 [Portafolio editable (DOCX)](./PORTAFOLIO%20SERVIDOR.docx)
 - 📝 [Script de backup](./backup.sh)
 
 ---

@@ -29,13 +29,15 @@ Portafolio del servidor doméstico basado en **Ubuntu Server**, con servicios pr
 
 - 📘 [Portafolio completo (PDF)](./PORTAFOLIO%20SERVIDOR.pdf)
 - 📝 [Script de backup](./backup.sh)
-
+> 📧 Si necesitas la versión editable (DOCX) del portafolio, puedes solicitarla por email.
+> 
 ---
 
 ## 📝 Autor
 
 **Jaime Llastarry Jansana**
 📅 Septiembre 2026
+📧 jaumellastarry@gmail.com
 
 ---
 
